@@ -77,7 +77,9 @@ Sentiment-Analysis---Amazon-Alexa-Reviews/
 
 ## ✍️ Author
 HARIPRAKASH.N
-LinkedIn - linkedin.com/in/hariprakash015/
+
+LinkedIn - https://www.linkedin.com/in/hariprakash015/
+
 Email - hariprakash3004@gmail.com
 
 
