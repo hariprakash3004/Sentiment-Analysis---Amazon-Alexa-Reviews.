@@ -56,10 +56,15 @@ A machine learning project to classify sentiments (Positive 😊, Neutral 😐, 
 Sentiment-Analysis---Amazon-Alexa-Reviews/
 │
 ├── app.py # Streamlit app
+
 ├── data.csv # Raw dataset
+
 ├── tfidf_vectorizer.pkl # Saved TF-IDF vectorizer
+
 ├── svm_model.pkl # Trained SVM model
+
 ├── README.md # Project documentation
+
 └── requirements.txt # All dependencies
 
 
@@ -72,9 +77,11 @@ Sentiment-Analysis---Amazon-Alexa-Reviews/
 ```bash
 pip install -r requirements.txt
 
- 2. **Run the app**
+2. **Run the app**
 
+```bash
 streamlit run app.py
+
 
 
 ![Screenshot 2025-05-31 165025](https://github.com/user-attachments/assets/7d6bd380-cca9-439c-8c1f-0ea80fa70b51)
