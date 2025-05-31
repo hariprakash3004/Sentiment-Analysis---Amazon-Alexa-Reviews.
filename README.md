@@ -72,15 +72,14 @@ Sentiment-Analysis---Amazon-Alexa-Reviews/
 
 ## 💡 How to Run
 
-1. **Install dependencies**
+1. **Run the app**
 
 ```bash
-pip install -r requirements.txt
 
-2. **Run the app**
-
-```bash
 streamlit run app.py
+
+
+
 
 
 
