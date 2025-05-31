@@ -70,15 +70,6 @@ Sentiment-Analysis---Amazon-Alexa-Reviews/
 
 ---
 
-## 💡 How to Run
-
-1. **Run the app**
-
-```bash
-
-streamlit run app.py
-
----
 
 
 
